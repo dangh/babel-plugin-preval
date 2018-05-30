@@ -1,4 +1,4 @@
-const babylon = require('babylon')
+const babylon = require('@babel/parser')
 
 module.exports = objectToAST
 
